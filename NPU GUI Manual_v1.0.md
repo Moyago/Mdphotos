@@ -25,7 +25,7 @@ Step 2: 点击Init 按钮，完成NPU模块与上位机软件的初始化连接�
 
 M_Step 3: 点击map 按钮，启动建图模式；
 
-M_Step 4: 点击Start Get Map 按钮i，获取当前所建地图；
+M_Step 4: 点击Start Get Map 按钮，获取当前所建地图；
 
 M_Step 5: 人工推动【推荐】或遥控机器人按照所设定路线进行建图；
 
